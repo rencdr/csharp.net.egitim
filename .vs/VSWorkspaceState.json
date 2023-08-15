@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\csharpcrashcourse",
+    "\\csharpcrashcourse\\csharpcrashcourse",
+    "\\csharpcrashcourse\\csharpcrashcourse\\Uygulamalar"
   ],
+  "SelectedNode": "\\csharpcrashcourse\\csharpcrashcourse\\Linq.cs",
   "PreviewInSolutionExplorer": false
 }
